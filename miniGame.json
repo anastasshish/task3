@@ -1,0 +1,21 @@
+{
+  "gold": 0,
+  "survivingUnits": [
+    {
+      "type": "ARCHER",
+      "hp": 20,
+      "attack": 40,
+      "cost": 15,
+      "luck": 0,
+      "templeBonusActive": false
+    },
+    {
+      "type": "SWORDSMAN",
+      "hp": 16,
+      "attack": 30,
+      "cost": 20,
+      "luck": 0,
+      "templeBonusActive": false
+    }
+  ]
+}
